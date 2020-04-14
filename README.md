@@ -1,0 +1,1 @@
+Weather app made following a tutorial by Dev Ed on youtube. Had to use another API as the one in the video is no longer available. Had to write some of my own code to get the API that I used to work with Skycons as well as change some of the function names within Skycons itself.
